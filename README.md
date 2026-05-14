@@ -10,13 +10,13 @@
 
 Je suis développeur Full Stack en Mastère à l'EFREI Paris et alternant chez Avancial.
 
-J'aime construire des applications web propres, utiles et maintenables, avec un intérêt pour le **cloud**, le **DevOps**, l'architecture et la qualité du code.
+J'aime construire des applications web propres, utiles et maintenables, avec un intérêt pour le **backend**, le **cloud**, le **DevOps**, l'architecture logicielle et la qualité du code.
 
 ```txt
 💼 Full Stack Developer
 🎓 EFREI Paris
 🏢 Avancial
-☁️ Cloud, DevOps & Web Apps
+☁️ Web Apps, Cloud & DevOps
 ⚽ Football discipline
 ⚡ Anime action energy
 🧠 Clean code & continuous improvement
@@ -27,8 +27,8 @@ J'aime construire des applications web propres, utiles et maintenables, avec un 
 ## Current Focus
 
 ```txt
-Main Quest: Build useful web applications
-Side Quests: Cloud, DevOps, automation, software quality
+Main Quest: Build useful and clean web applications
+Side Quests: Cloud, DevOps, REST APIs, automation, AI and software quality
 Mindset: Discipline, consistency and progression
 ```
 
@@ -36,28 +36,54 @@ Mindset: Discipline, consistency and progression
 
 ## Tech Stack
 
-```txt
-Frontend       HTML · CSS · JavaScript · React · Vite
-Backend        Python · Flask
-Cloud / DevOps Azure · Terraform · Docker · GitHub Actions
-Tools          Git · GitHub · VS Code
-```
+| Area | Technologies |
+|---|---|
+| Frontend | HTML · CSS · JavaScript · TypeScript · React · Next.js · Vite · Tailwind CSS |
+| Backend | Node.js · Express · NestJS · FastAPI · Flask · Java · Spring Boot |
+| Databases | PostgreSQL · MongoDB · Supabase · H2 · Prisma · Mongoose · SQLAlchemy |
+| Cloud / DevOps | Azure · Docker · Docker Compose · Terraform · GitHub Actions · Render · Netlify |
+| AI / Data | Groq API · Python · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn |
+| Testing / Quality | Jest · Supertest · Vitest · Pytest · Ruff · MyPy · ESLint · Swagger/OpenAPI |
+| Creative Coding | Unity · C# · HTML5 Canvas · PWA · Game logic |
 
 ---
 
-## Projects
+## What I Build
 
-Mes projets arrivent bientôt ici.
+Je travaille sur plusieurs types de projets pour progresser en développement Full Stack.
 
-Je mettrai en avant uniquement des projets réels, propres et bien présentés, avec :
+| Type de projet | But | Compétences travaillées |
+|---|---|---|
+| SaaS & dashboards | Créer des plateformes métier avec comptes, données et interfaces admin | Authentification, API, architecture, dashboards, gestion de données |
+| Web apps full stack | Construire des applications complètes frontend + backend | React, Next.js, Express, NestJS, PostgreSQL, MongoDB |
+| Cloud & DevOps | Déployer, automatiser et monitorer des applications | Azure, Docker, Terraform, CI/CD, monitoring, sécurité |
+| REST APIs | Concevoir des APIs propres et structurées | CRUD, validation, modèles, routes, documentation Swagger |
+| AI & automation | Automatiser l'analyse et la qualification de données | Scoring, résumé IA, workflows, queues, notifications |
+| Data science | Explorer, nettoyer et analyser des données | EDA, preprocessing, visualisation, régression linéaire |
+| Games & creative projects | Expérimenter la logique de jeu et l'interaction utilisateur | Unity, C#, JavaScript, Canvas, state management |
+
+---
+
+## Project Experience
+
+Mes projets m'ont permis de pratiquer :
 
 ```txt
-Name
-Goal
-Stack
-Features
-What I learned
-Preview / Screenshots
+Full Stack Development
+REST API Design
+Authentication & Authorization
+CRUD Applications
+Admin Dashboards
+Database Modeling
+Cloud Deployment
+Infrastructure as Code
+CI/CD Pipelines
+Monitoring
+AI-powered Workflows
+Data Analysis
+Game Logic
+Responsive UI
+Clean Architecture
 ```
 
 ---
@@ -84,6 +110,6 @@ Development turns ideas into reality.
 
 <div align="center">
 
-Full Stack Developer · Web Developer · Cloud Developer · JavaScript · Python · React · Azure · Terraform · DevOps · Paris
+Full Stack Developer · Web Developer · Backend Developer · Cloud Developer · JavaScript · TypeScript · React · Next.js · Node.js · Python · Java · Spring Boot · Azure · Docker · Terraform · DevOps · Paris
 
 </div>
