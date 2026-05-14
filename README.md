@@ -1,17 +1,12 @@
 <div align="center">
 
-<img src="./assets/banner.gif" alt="Sina Ramezani GitHub Banner - Full Stack Developer, Anime, Football and Cloud" width="100%" />
+<img src="./assets/banner.gif" alt="Sina Ramezani GitHub Banner - Full Stack Developer" width="100%" />
 
-# Yo, moi c'est Sina Ramezani ⚡
+# Salut, moi c'est Sina Ramezani ⚡
 
 ### Full Stack Developer — Cloud, Web Apps & Clean Code
 
-`Football discipline` · `Anime action energy` · `Developer mindset`
-
-<br/>
-
-<img src="./assets/anime.gif" alt="Anime action energy" width="260" />
-<img src="./assets/football.gif" alt="Football mindset edit" width="260" />
+`Full Stack Development` · `Cloud` · `DevOps` · `Clean Code`
 
 </div>
 
@@ -23,29 +18,27 @@ Je suis **Sina Ramezani**, développeur Full Stack basé à Paris.
 
 Je suis actuellement en Mastère à l'EFREI Paris et alternant chez Avancial.
 
-J'aime construire des applications web propres, utiles et maintenables, avec un intérêt particulier pour :
+J'aime construire des applications web propres, utiles et maintenables, avec une attention particulière pour :
 
 - le développement Full Stack
 - le cloud
-- les architectures propres
 - l'automatisation
+- l'architecture logicielle
 - l'expérience utilisateur
-- les projets créatifs
+- la qualité du code
 
-En dehors du code, mon univers vient beaucoup du football et des animés d'action comme **Hunter x Hunter**, **Solo Leveling** et **My Hero Academia**.
-
-J'aime l'idée de progression constante : apprendre, construire, échouer, corriger, recommencer, level up.
+Mon objectif est de progresser constamment en construisant des projets concrets, bien structurés et proches de vrais besoins utilisateurs.
 
 ---
 
-## ⚔️ Current Arc
+## ⚔️ Current Focus
 
 ```txt
-Level: Full Stack Developer
-Main Quest: Build useful and clean web applications
-Side Quests: Cloud, DevOps, Cybersecurity, UI/UX
+Role: Full Stack Developer
+Main Focus: Web applications, Cloud and DevOps
+Currently improving: Architecture, automation and software quality
 Training Ground: EFREI Paris + Avancial
-Mindset: Football discipline + Shōnen energy
+Mindset: Discipline, consistency and continuous improvement
 ```
 
 ---
@@ -121,30 +114,29 @@ Small creative JavaScript game project.
 
 ---
 
-## 🔎 Keywords
+## 🏟️ Personal Mindset
 
-Full Stack Developer · Web Developer · Cloud Developer · JavaScript Developer · Python Developer · React Developer · Azure · Terraform · DevOps · GitHub Profile README · Anime Inspired Developer · Football Mindset · Paris Developer · EFREI Paris · Avancial · Shonen Developer · Cristiano Ronaldo Inspired Mindset
+En dehors du code, je suis passionné par le football et les animés d'action.
 
----
-
-## 🏟️ Mindset
+Ce que j'aime dans ces univers, c'est la progression, la discipline, la stratégie et la capacité à continuer même après l'échec.
 
 ```txt
-Like football:
-I train consistently.
-I play for the team.
-I learn from every match.
-
-Like a shōnen arc:
-I fail, adapt, improve,
-and keep leveling up.
+Football teaches discipline.
+Anime inspires progression.
+Development turns ideas into reality.
 ```
 
 <div align="center">
 
-<img src="./assets/level-up.gif" alt="Level up developer mindset" width="320" />
+<img src="./assets/level-up.gif" alt="Continuous improvement mindset" width="320" />
 
 </div>
+
+---
+
+## 🔎 Keywords
+
+Full Stack Developer · Web Developer · Cloud Developer · JavaScript Developer · Python Developer · React Developer · Azure · Terraform · DevOps · GitHub Profile README · Developer Portfolio · Paris Developer · EFREI Paris · Avancial · Clean Code · Software Engineering
 
 ---
 
