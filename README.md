@@ -45,19 +45,20 @@ Tools          Git · GitHub · VS Code
 
 ---
 
-## Featured Projects
+## Projects
 
-**DocChain Cloud**  
-Cloud document manager with blockchain proof of integrity.  
-`Python · Flask · Azure · Terraform · Grafana · Solidity · GitHub Actions`
+Mes projets arrivent bientôt ici.
 
-**Personal Portfolio**  
-Modern personal portfolio with clean UI and frontend creativity.  
-`HTML · CSS · JavaScript`
+Je mettrai en avant uniquement des projets réels, propres et bien présentés, avec :
 
-**Snack Stack Game**  
-Small creative JavaScript game focused on logic and interaction.  
-`JavaScript · Frontend · Game logic`
+```txt
+Name
+Goal
+Stack
+Features
+What I learned
+Preview / Screenshots
+```
 
 ---
 
