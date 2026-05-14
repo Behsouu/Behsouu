@@ -1,8 +1,12 @@
-<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDI2MXVnbTh3ODN2bDZyMXVwMjZpMXFybHkwMWNsbmY5bjdheXFvNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p3n74HP7NfrHO/giphy.gif" width="230" alt="Anime inspired developer visual" />
+<div align="center">
 
 # Hello, moi c'est Sina ⚡
 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDI2MXVnbTh3ODN2bDZyMXVwMjZpMXFybHkwMWNsbmY5bjdheXFvNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p3n74HP7NfrHO/giphy.gif" width="420" alt="Anime inspired developer visual" />
+
 ### Full Stack Developer basé à Paris
+
+</div>
 
 Je suis développeur Full Stack en Mastère à l'EFREI Paris et alternant chez Avancial.
 
