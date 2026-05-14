@@ -1,10 +1,17 @@
 <div align="center">
 
+<img src="./assets/banner.gif" alt="Sina Ramezani GitHub Banner - Full Stack Developer, Anime, Football and Cloud" width="100%" />
+
 # Yo, moi c'est Sina Ramezani ⚡
 
 ### Full Stack Developer — Cloud, Web Apps & Clean Code
 
 `Football discipline` · `Anime action energy` · `Developer mindset`
+
+<br/>
+
+<img src="./assets/anime.gif" alt="Anime action energy" width="260" />
+<img src="./assets/football.gif" alt="Football mindset edit" width="260" />
 
 </div>
 
@@ -116,7 +123,7 @@ Small creative JavaScript game project.
 
 ## 🔎 Keywords
 
-Full Stack Developer · Web Developer · Cloud Developer · JavaScript Developer · Python Developer · React Developer · Azure · Terraform · DevOps · GitHub Profile README · Anime Inspired Developer · Football Mindset · Paris Developer · EFREI Paris · Avancial
+Full Stack Developer · Web Developer · Cloud Developer · JavaScript Developer · Python Developer · React Developer · Azure · Terraform · DevOps · GitHub Profile README · Anime Inspired Developer · Football Mindset · Paris Developer · EFREI Paris · Avancial · Shonen Developer · Cristiano Ronaldo Inspired Mindset
 
 ---
 
@@ -132,6 +139,12 @@ Like a shōnen arc:
 I fail, adapt, improve,
 and keep leveling up.
 ```
+
+<div align="center">
+
+<img src="./assets/level-up.gif" alt="Level up developer mindset" width="320" />
+
+</div>
 
 ---
 
