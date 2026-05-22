@@ -12,10 +12,10 @@
 </div>
 ---
  
-## 🧭 À propos de moi
+### ⭐ À propos de moi
  
-💼 Développeur Full Stack en Mastère à l'**EFREI Paris**, alternant chez **Avancial**
-🧠 Passionné par le **SaaS**, le **cloud**, le **DevOps** et la qualité du code
+🚀 Développeur Full Stack en Mastère à l'**EFREI Paris**, alternant chez **Avancial**.<br>
+🎓 Passionné par le **SaaS**, le **backend**, le **cloud**, le **DevOps** et la qualité du code.
  
 ---
  
@@ -101,9 +101,9 @@
  
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=Behsouu&theme=tokyonight&hide_border=true" />
-<br/><br/>
- 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Behsouu&theme=tokyonight" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Behsouu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Behsouu&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </div>
 ---
  
