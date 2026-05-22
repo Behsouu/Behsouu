@@ -16,32 +16,10 @@
 
 ---
 
-## 🧭 À propos de moi
+### ⭐ À propos de moi
 
-Je suis **Sina Ramezani**, développeur Full Stack en Mastère à l'**EFREI Paris** et alternant chez **Avancial**.
-
-J'aime construire des applications web propres, utiles et maintenables, avec un intérêt particulier pour le **SaaS**, le **backend**, le **cloud**, le **DevOps**, l'architecture logicielle et la qualité du code.
-
-```txt
-💼 Développeur Full Stack
-🎓 EFREI Paris
-🏢 Avancial
-☁️ Web Apps, Cloud & DevOps
-🤖 Workflows IA
-⚽ Discipline du football
-⚡ Énergie anime / shōnen
-🧠 Clean code & amélioration continue
-```
-
----
-
-## 🎯 Objectif actuel
-
-```txt
-Quête principale : construire des applications utiles, propres et maintenables
-Quêtes secondaires : SaaS, APIs REST, cloud, DevOps, IA, automatisation
-Mentalité : discipline, régularité, progression
-```
+🚀 Développeur Full Stack en Mastère à l'**EFREI Paris**, alternant chez **Avancial**.<br>
+🎓 Passionné par le **SaaS**, le **backend**, le **cloud**, le **DevOps** et la qualité du code.
 
 ---
 
