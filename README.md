@@ -105,9 +105,21 @@ Mentalité : discipline, régularité, progression
 
 ## 🚀 Mes projets
 
+| Projet | Description |
+|---|---|
+| 🧾 **Comptable IA** | SaaS B2B de gestion documentaire pour cabinets comptables |
+| 🤖 **AI Lead Qualification Agent** | Agent IA de scoring et qualification de leads avec dashboard analytics |
+| 🔐 **DocChain Cloud** | Gestion documentaire cloud avec preuve d'intégrité SHA-256 et ancrage blockchain |
+| 🎟️ **TicTacEvent** | Plateforme Full Stack de gestion d'événements avec carte et espace admin |
+| 🕌 **Wali Asr** | App associative avec horaires de prière, calendrier islamique et espace admin |
+| 🌐 **Al-Khoei Foundation** | Site institutionnel multilingue avec événements, dons et actualités |
+| 📇 **Full-Stack-JS** | App de gestion de contacts avec API REST, auth JWT et documentation Swagger |
+| 🎨 **Portfolio** | Site personnel responsive avec animations Three.js et dark/light mode |
+| 🎮 **Snack Stack** | Jeu de stacking en version web (Canvas/PWA) et mobile (Unity/C#) |
+
 <div align="center">
 
-[![Voir tous mes projets](https://img.shields.io/badge/Voir_tous_mes_projets-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Behsouu?tab=repositories)
+[![Voir tous mes projets](https://img.shields.io/badge/Voir_tous_mes_projets_→-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Behsouu?tab=repositories)
 
 </div>
 
@@ -117,15 +129,12 @@ Mentalité : discipline, régularité, progression
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Behsouu&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+<img src="https://streak-stats.demolab.com?user=Behsouu&theme=tokyonight&hide_border=true" />
 
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Behsouu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Behsouu&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Behsouu&theme=tokyonight&hide_border=true" />
 
 </div>
 
