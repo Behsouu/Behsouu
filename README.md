@@ -103,185 +103,13 @@ Mentalité : discipline, régularité, progression
 
 ---
 
-## 🚀 Expérience projets
+## 🚀 Mes projets
 
-### 🧾 Comptable IA
+<div align="center">
 
-Plateforme SaaS B2B pour cabinets comptables : gestion des clients, missions, périodes comptables, demandes de documents, uploads, audit logs, rappels et dashboard.
+[![Voir tous mes projets](https://img.shields.io/badge/Voir_tous_mes_projets-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Behsouu?tab=repositories)
 
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker)
-![Pytest](https://img.shields.io/badge/Pytest-0D1117?style=flat-square&logo=pytest)
-
-**Compétences :** architecture SaaS, API REST, authentification, gestion documentaire, tests, qualité logicielle, dashboard métier.
-
----
-
-### 🤖 AI Lead Qualification Agent
-
-SaaS IA qui automatise la qualification de leads avec scoring, résumé structuré, webhooks, notifications Slack/email et dashboard analytics.
-
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs)
-![NestJS](https://img.shields.io/badge/NestJS-0D1117?style=flat-square&logo=nestjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql)
-![Redis](https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker)
-
-**Compétences :** architecture multi-tenant, workers asynchrones, IA, scoring, webhooks, notifications, tests et déploiement cloud.
-
----
-
-### 🔐 DocChain Cloud
-
-Application cloud de gestion documentaire sécurisée avec preuve d'intégrité SHA-256 et ancrage blockchain sur Ethereum Sepolia.
-
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python)
-![Flask](https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask)
-![Azure](https://img.shields.io/badge/Azure-0D1117?style=flat-square&logo=microsoftazure)
-![Terraform](https://img.shields.io/badge/Terraform-0D1117?style=flat-square&logo=terraform)
-![Solidity](https://img.shields.io/badge/Solidity-0D1117?style=flat-square&logo=solidity)
-![Grafana](https://img.shields.io/badge/Grafana-0D1117?style=flat-square&logo=grafana)
-
-**Compétences :** cloud Azure, infrastructure as code, blockchain, monitoring, sécurité, CI/CD et automatisation.
-
----
-
-### 🎟️ TicTacEvent
-
-Plateforme Full Stack de gestion d’événements avec authentification, création d’événements, favoris, participations, commentaires, carte et espace admin.
-
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react)
-![Vite](https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite)
-![Express](https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/CI/CD-0D1117?style=flat-square&logo=githubactions)
-
-**Compétences :** Full Stack, API REST, JWT, rôles, CRUD, upload d’images, cartes, tests, Docker et CI/CD.
-
----
-
-### 🕌 Wali Asr
-
-Application associative avec horaires de prière, calendrier islamique, contenu bilingue, formulaire de contact, emails, espace admin sécurisé et upload d’images.
-
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript)
-![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=flat-square&logo=prisma)
-![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss)
-
-**Compétences :** Next.js, API routes, authentification, Prisma, Supabase, internationalisation simple et interface admin.
-
----
-
-### 🌐 Al-Khoei Foundation Website
-
-Site institutionnel multilingue avec événements, dons, actualités, horaires de prière, upload d’images et interface admin.
-
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react)
-![Vite](https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite)
-![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase)
-![i18next](https://img.shields.io/badge/i18n-0D1117?style=flat-square&logo=i18next)
-![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel)
-
-**Compétences :** React, Supabase, contenu multilingue, RTL, API externe, dashboard admin et déploiement.
-
----
-
-### 📇 Full-Stack-JS
-
-Application de gestion de contacts avec authentification, API REST sécurisée, documentation Swagger, tests automatisés et déploiement.
-
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb)
-![Swagger](https://img.shields.io/badge/Swagger-0D1117?style=flat-square&logo=swagger)
-![Jest](https://img.shields.io/badge/Jest-0D1117?style=flat-square&logo=jest)
-
-**Compétences :** MERN, JWT, routes protégées, CRUD, tests backend, documentation API et déploiement frontend/backend.
-
----
-
-### 🎨 Portfolio
-
-Site personnel responsive pour présenter mon parcours, mes compétences, mes projets et mon univers.
-
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript)
-![Three.js](https://img.shields.io/badge/Three.js-0D1117?style=flat-square&logo=threedotjs)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-0D1117?style=flat-square&logo=githubpages)
-
-**Compétences :** UI responsive, animations, JavaScript Vanilla, Three.js, Canvas, dark/light mode et personal branding.
-
----
-
-### 🎮 Snack Stack
-
-Projets créatifs autour du stacking, en version web et mobile.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript)
-![Canvas](https://img.shields.io/badge/Canvas-0D1117?style=flat-square&logo=html5)
-![PWA](https://img.shields.io/badge/PWA-0D1117?style=flat-square&logo=pwa)
-![Unity](https://img.shields.io/badge/Unity-0D1117?style=flat-square&logo=unity)
-![C#](https://img.shields.io/badge/C%23-0D1117?style=flat-square&logo=csharp)
-![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase)
-
-**Compétences :** logique de jeu, game loop, score, UI mobile, Unity, C#, Canvas, PWA et créativité frontend.
-
----
-
-## 🧠 Compétences développées
-
-```txt
-Développement Full Stack
-Conception d'APIs REST
-Authentification & autorisation
-Architecture SaaS
-Dashboards administrateur
-Modélisation de bases de données
-Déploiement cloud
-Infrastructure as Code
-Pipelines CI/CD
-Monitoring
-Workflows IA
-Analyse de données
-Logique de jeu
-UI responsive
-Clean architecture
-Tests & documentation
-```
-
----
-
-## 📚 Apprentissage & exploration
-
-J'utilise aussi des projets plus courts pour explorer de nouvelles technologies :
-
-```txt
-Java / Spring Boot
-Python Data Science
-Régression linéaire
-APIs CRUD MongoDB
-Projets Next.js
-Prototypes Unity
-Jeux JavaScript navigateur
-```
-
----
-
-## 🏟️ Mentalité
-
-```txt
-Le football m'apprend la discipline.
-Les animés m'inspirent la progression.
-Le développement transforme les idées en réalité.
-```
+</div>
 
 ---
 
@@ -294,6 +122,22 @@ Le développement transforme les idées en réalité.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Behsouu&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 
 </div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Behsouu&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Activité GitHub
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Behsouu/Behsouu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Behsouu/Behsouu/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Behsouu/Behsouu/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
