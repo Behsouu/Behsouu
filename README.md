@@ -116,4 +116,11 @@ Passionné par la technologie, le design et les univers numériques, j'explore d
   <a href="https://github.com/Behsouu?tab=repositories">
     <img src="https://img.shields.io/badge/Explore_All_Projects-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Voir tous mes projets" />
   </a>
-</p></div>
+</p></div>📊 Statistiques GitHub
+<div align="center"><img src="https://streak-stats.demolab.com?user=Behsouu&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Behsouu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Behsouu&layout=compact&theme=tokyonight&hide_border=true" height="160" /></div><div align="center"><h2><img src="https://api.iconify.design/lucide/activity.svg?color=%238B9DC3" width="23" alt="" /> GitHub Activity</h2><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Behsouu/Behsouu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Behsouu/Behsouu/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Behsouu/Behsouu/output/github-contribution-grid-snake.svg">
+</picture></div>
